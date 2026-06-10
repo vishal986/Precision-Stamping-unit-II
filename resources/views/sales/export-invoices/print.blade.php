@@ -295,6 +295,7 @@
                     <tr>
                         <td style="border-bottom: none; border-top: none; padding-top: 0px; padding-bottom: 0px;"></td>
                         <td style="border-bottom: none; border-top: none; padding-top: 0px; padding-bottom: 0px;"></td>
+                        <td style="border-bottom: none; border-top: none; padding-top: 0px; padding-bottom: 0px;"></td>
                         <td style="border-bottom: none; border-top: none; border-right: none; padding-top: 0px; padding-bottom: 0px;"></td>
                         <td class="right bold" style="border-bottom: none; border-top: none; border-left: none; padding-top: 0px; padding-bottom: 0px; padding-right: 20px;">B/F</td>
                         <td class="center bold" style="border-bottom: none; border-top: none; padding-top: 0px; padding-bottom: 0px;">{{ number_format($runningQty, 0) }}</td>
